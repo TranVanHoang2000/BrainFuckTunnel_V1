@@ -1,0 +1,10 @@
+clear
+sleep 0.1
+killall -9 psiphon-tunnel-core
+sleep 0.1
+killall -9 4gfree
+sleep 0.1
+killall -9 psiphon-tunnel-core
+sleep 0.1
+4gfree 0.1
+4gfree
