@@ -4,9 +4,9 @@ killall -9 4g0d
 sleep 0.1
 killall -9 psiphon-tunnel-core
 sleep 0.1
-4g0dunnel-core
+4g0dtunnel-core
 sleep 0.1
-4g0dunnel-core
+4g0dtunnel-core
 sleep 0.1
-4g0d1
-4ghack
+4g0d
+4g0d
